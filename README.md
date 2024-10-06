@@ -5,7 +5,7 @@
 - **Frontend:** React con Ant Design, gestionando rutas con React Router y comunicación en tiempo real con Socket.IO.
 - **Backend:** Node.js con Express, utilizando Socket.IO para la comunicación en tiempo real y Nodemon para un desarrollo más eficiente.
 
-![Imagen de la aplicacion](assets/Aplicacion.png)
+![Imagen de la aplicacion](./Assets/Aplicacion.png)
 
 ## Funcionalidades Principales:
 
